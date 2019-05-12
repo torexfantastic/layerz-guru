@@ -11,7 +11,7 @@ Layerz Guru menuruni kemampuan utama tema Layers for Elementor dan diperluas lag
 6. **Step by step please!**, install WordPress > fast setup > make content > publish > SEO + Marketing.
 
 ## Konsep Layerz Guru
-Layerz Guru memiliki **Layerz Guru Apps**, yaitu sebuah virtualisasi asisten personal untuk mengelola WordPress. Kombinasi antara tutorial + dukungan pengembang + dukungan komunitas langsung dari website Anda. **Less Loading Please** LGA (Layerz Guru Apps) dibangun menggunakan teknik **Single Page Dashboard**. Arah pengembangannya menuruni kekuatan Calypso yang dibangun menggunakan teknologi Javascript. 
+Layerz Guru memiliki **Layerz Guru Apps**, yaitu sebuah virtualisasi asisten personal untuk mengelola WordPress. Kombinasi antara tutorial + dukungan pengembang + dukungan komunitas langsung dari website Anda. **Less Loading Please** LGA (Layerz Guru Apps) dibangun menggunakan teknik **Single Page Dashboard**. Arah pengembangannya menuruni kekuatan Calypso yang dibangun menggunakan teknologi Javascript.
 
 ## Fundamental
 1. *Simple is fast*.
