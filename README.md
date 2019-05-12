@@ -1,28 +1,28 @@
-# Layerz Guru, Tema WordPress Super Ngebut!
-Layerz Guru dibangun menggunakan tema Layers for Elementor. Layerz Guru seperti tema induknya, terintegrasi dengan baik bersama plugin Elementor. salah satu page builder WordPress yang memiliki segudang fitur untuk membuat website impian Anda menjadi kenyataan. 
+# Layerz Guru, Fast Web Designer WordPress Theme!
+Layerz Guru dibangun dari tema induk Layers for Elementor dari Elementor. Seperti tema induknya, terintegrasi dengan baik bersama plugin Elementor. Salah satu page builder WordPress yang memiliki segudang fitur untuk membuat website impian Anda menjadi kenyataan.
 
-## Fitur Extended
-Layerz Guru menuruni kemampuan utama tema Layers for Elementor dan diperluas lagi khusus untuk pasar Indonesia.
-1. **Layerz Guru**, dokumentasi + ebook WordPress yang dipersonalisasi.
-2. Fokus customer support pada WhatsApp chat.
-3. Sentuhan kecil untuk UI area admin.
-4. Widget extended untuk Elementor.
-5. Google *- isme*, untuk SEO dan AdWords.
-6. Facebook *- isme*, untuk Facebook dan Instagram Ads.
-7. **Designer**, everybody is web designer, berkat page builder dari -Elementor.
-7. Fitur extended untuk merekonstruksi WooCommerce khusus untuk *enduser* pemula Indonesia.
-8. **IT'S FREE & Open Source...!!!** seperti tema induknya.
+## Layerz Guru Description: *conceptual*
+Layerz Guru menuruni kemampuan utama tema Layers for Elementor dan diperluas lagi.
+1. **Layerz Guru** dibangun untuk menjadi framework tema WordPress yang dapat digunakan sebagai kerangka kerja standar membangun website dengan WordPress.
+2. Layerz Guru menggunakan teknik "Personalisasi WordPress Dashboard", kerangka kerja pengelolaan WordPress yang memadukan antara **Dukungan komunitas dan 'tools' personal asisten WordPress**.
+3. Fokus pada "cara menikmati WordPress" dengan cara yang berbeda.
+4. ***Design is numbeone and Everybody is web designer*** bersama kekuatan Elementor.
+5. **Personalisasi is great**, fokus pada WhatsApp Chat dan aplikasi chat paling populer saat ini untuk melayani pelanggan.
+6. **Step by step please!**, install WordPress > fast setup > make content > publish > SEO + Marketing.
 
 ## Konsep Layerz Guru
-**Layerz Guru** menjadi fitur utama tema WordPress Layerz Guru. Fitur ini menjadi nilai lebih karena menyediakan sekumpulan panduan pengelolaan WordPress secara efektif. Panduan tersedia secara live pada website user dan hanya bisa diakses oleh administrator web.
+Layerz Guru memiliki **Layerz Guru Apps**, yaitu sebuah virtualisasi asisten personal untuk mengelola WordPress. Kombinasi antara tutorial + dukungan pengembang + dukungan komunitas langsung dari website Anda. **Less Loading Please** LGA (Layerz Guru Apps) dibangun menggunakan teknik **Single Page Dashboard**. Arah pengembangannya menuruni kekuatan Calypso yang dibangun menggunakan teknologi Javascript.
 
-Sebagai gambaran, saat user membaca panduan "Atur Permalink yang SEO sentris" mereka akan diarahkan langsung pada halaman */wp-admin/options-permalink.php*. Jika memungkinkan, sebuah pin akan menunjukkan posisi pengaturan yang dimaksud. 
+## Fundamental
+1. *Simple is fast*.
+2. *Bloat configuration tools make dirty your design.*
+3. *Dont break your design, keep it simple.*
+5. *Make different way to enjoy your WordPress*.
+6. *You are web designer*.
 
-# Kesederhanaan
-1. Minim panel konfigurasi, jika memungkinkan konfigurasi tema induk dimatikan.
-2. Install > setting basic > siap fokus pada konten.
-3. *Memaksa* user dengan konfigurasi terbaik dari developer.
-4. Tidak menerima *custom*, seperti kata developer yang bosan menjadi developer, fokus pada produk terbaik.
-5. But, kami akan selalu terbuka menerima permintaan fitur-fitur terbaik untuk user Indonesia.
-
-*code is poetry*
+## Key Features
+1. Elementor Extended Widget.
+2. Layerz Guru Apps, Sub System WordPress Dashboard.
+3. Make Traffic Centric.
+4. Fundamental WordPress Configuration.
+5. Single configuration page.
